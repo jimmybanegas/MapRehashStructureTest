@@ -38,7 +38,7 @@ void Map::put(string key, int value)
 
 int Map::get(string key)
 {
-    //Cuando hago remove, el get tiene que seguri buscando cuandi encuentre este flag, ahorita se detendría donde encuenre D (flag deleted)
+    //Cuando hago remove, el get tiene que seguir buscando cuando encuentre este flag, ahorita se detendría donde encuenre D (flag deleted)
     //Y diria que no existe, asi que debe seguir buscando s
 
     int rerun = 0;
