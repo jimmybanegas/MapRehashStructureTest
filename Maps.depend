@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1485393204 source:c:\users\jimmy ramos\documents\algoritmos\maprehashstructuretest\main.cpp
+	"Test.h"
+	<iostream>
+	<map>
+
+1485393204 c:\users\jimmy ramos\documents\algoritmos\maprehashstructuretest\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485395918 source:c:\users\jimmy ramos\documents\algoritmos\maprehashstructuretest\map.cpp
+	"Map.h"
+
+1485393204 c:\users\jimmy ramos\documents\algoritmos\maprehashstructuretest\map.h
+	<iostream>
+	<map>
+	<vector>
+
+1485395702 source:c:\users\jimmy ramos\documents\algoritmos\maprehashstructuretest\test.cpp
+	"Test.h"
+	"Map.h"
+
